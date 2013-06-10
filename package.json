@@ -1,0 +1,15 @@
+{
+  "name":        "js-pack",
+  "version":     "1.0.0",
+  "main":        "./index.js",
+  "description": "Simple data packing and unpacking library",
+  "homepage":    "http://github.com/ErikDubbelboer/node-pack",
+  "author":      "Erik Dubbelboer <erik@dubbelboer.com>",
+  "engines" :    { "node" : ">=0.4.0" },
+  "repositories": [
+    {
+      "type": "git",
+      "url":  "https://github.com/ErikDubbelboer/node-pack.git"
+    }
+  ]
+}
